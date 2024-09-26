@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.Hospital.Management.System.doclogin.entity.Appointment;
 import com.Hospital.Management.System.doclogin.repository.AppointmentsRepository;
-import com.Hospital.Management.System.entity.Patient;
+
 
 @RestController
 @RequestMapping("api/v2")
